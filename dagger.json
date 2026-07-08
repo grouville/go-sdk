@@ -1,6 +1,6 @@
 {
   "name": "go-sdk",
-  "engineVersion": "v1.0.0-0",
+  "engineVersion": "v0.21.5-20260608185250-dev-f47e4d693992",
   "sdk": {
     "source": "dang"
   },
